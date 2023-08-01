@@ -1,0 +1,11 @@
+.btn {
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px 30px;
+  margin: 15px 0;
+  border-radius: 30px;
+  background-color: rgba(133, 255, 149, 0.844);
+  color: white;
+  width: fit-content;
+  font-size: 1.4rem;
+}
